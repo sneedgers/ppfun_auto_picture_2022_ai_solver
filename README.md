@@ -1,4 +1,5 @@
-# ppfun2
+# ppfun2 - AI SOLVER 
+# TURKIEEE YESSS ALBANNAAIAAA YESSSSS
 **ppfun2** is a [PixelPlanet.Fun](https://pixelplanet.fun/) bot.
 
 ![](promo.png)\
