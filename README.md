@@ -22,4 +22,4 @@ It draws and defends images automatically. You only need to enter captcha occasi
 8. When you hear a breaking pickaxe sound from Minecraft, open PixelPlanet in your browser and place a pixel somewhere. You will be asked to enter CAPTCHA. Enter it, and the bot should continue drawing/defending.
 
 # It doesn't work
-It would be nice if you could send me the exact text the bot outputs through Issues on GitHub, in Discord (`portasynthinca3#1746`), or through E-Mail (`portasynthinca3@gmail.com`). Feature requests are also accepted.
+My matrix is : @cleansneed9:matrix.georgefloyd.link
