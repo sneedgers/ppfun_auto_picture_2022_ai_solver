@@ -1,4 +1,7 @@
-# ppfun2 - AI SOLVER 
+# Congrats to HF, from finding my Twitter via my Youtube Channel.  
+# Lmao 
+
+ppfun2 - AI SOLVER 
 # TURKIEEE YESSS ALBANNAAIAAA YESSSSS
 **ppfun2** is a [PixelPlanet.Fun](https://pixelplanet.fun/) bot.
 
